@@ -1,0 +1,46 @@
+.myBg {
+  height: 100vh;
+  background-image: url("../asset/bg/main-bg.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.Title {
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1;
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.688);
+  letter-spacing: 5px;
+}
+
+.trending {
+  height: auto;
+  background-image: url("../asset/bg/cave.jpg");
+  background-size: cover;
+}
+
+.superhero {
+  height: auto;
+  background-image: url("../asset/bg/cloud.jpg");
+  background-size: cover;
+}
+
+.movieWrapper {
+}
+
+.movieImage {
+  height: auto;
+  background-color: black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.trendingImage {
+  height: 500px;
+}
